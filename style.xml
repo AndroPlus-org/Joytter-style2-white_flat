@@ -1235,9 +1235,9 @@
 				<Bottom>0</Bottom>
 			</Margin>
 			<Padding>
-				<Left>4</Left>
-				<Top>0</Top>
-				<Right>0</Right>
+				<Left>2</Left>
+				<Top>-1</Top>
+				<Right>2</Right>
 				<Bottom>0</Bottom>
 			</Padding>
 			<Radius>
@@ -1253,9 +1253,7 @@
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>cancelbuttonbg.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Left</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1271,11 +1269,11 @@
 		<FontDesign>
 			<ColorStr>#FFFFFFFF</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>11</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text>Cancel</Text>
-		<Width>75</Width>
+		<Text>&#xf057; キャンセル</Text>
+		<Width>NaN</Width>
 		<Height>20</Height>
 		<MinWidth>NaN</MinWidth>
 		<MinHeight>NaN</MinHeight>
@@ -1283,7 +1281,7 @@
 		<HorizontalAlignment>Right</HorizontalAlignment>
 		<VerticalContentAlignment>Center</VerticalContentAlignment>
 		<HorizontalContentAlignment>Center</HorizontalContentAlignment>
-		<TextAlignment>Left</TextAlignment>
+		<TextAlignment>Center</TextAlignment>
 	</CancelButtonSetting>
 	<TagToggleButtonSetting>
 		<CheckedSetting>
@@ -2188,7 +2186,7 @@
 			<Size>11</Size>
 			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text>&#xf04b; オートスクロール</Text>
+		<Text>&#xf144; オートスクロール</Text>
 		<Width>NaN</Width>
 		<Height>16</Height>
 		<MinWidth>NaN</MinWidth>
@@ -2252,7 +2250,7 @@
 			<Size>11</Size>
 			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text>&#xf04c; 一時停止</Text>
+		<Text>&#xf28b; 一時停止</Text>
 		<Width>NaN</Width>
 		<Height>16</Height>
 		<MinWidth>NaN</MinWidth>
@@ -2316,7 +2314,7 @@
 			<Size>11</Size>
 			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text>&#xf04d; 無効</Text>
+		<Text>&#xf28d; 無効</Text>
 		<Width>NaN</Width>
 		<Height>16</Height>
 		<MinWidth>NaN</MinWidth>
