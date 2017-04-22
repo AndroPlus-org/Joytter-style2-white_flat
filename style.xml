@@ -2133,6 +2133,72 @@
 		<HorizontalContentAlignment>Center</HorizontalContentAlignment>
 		<TextAlignment>Left</TextAlignment>
 	</DirectMessageModeSetting>
+	<DMOpenButtonSetting>
+		<BoxDesign>
+			<BorderThickness>
+				<Left>1</Left>
+				<Top>1</Top>
+				<Right>1</Right>
+				<Bottom>1</Bottom>
+			</BorderThickness>
+			<BorderColorStr>#FF780B87</BorderColorStr>
+			<Margin>
+				<Left>0</Left>
+				<Top>3</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
+			</Margin>
+			<Padding>
+				<Left>5</Left>
+				<Top>2</Top>
+				<Right>5</Right>
+				<Bottom>2</Bottom>
+			</Padding>
+			<Radius>
+				<TopLeft>3</TopLeft>
+				<TopRight>3</TopRight>
+				<BottomRight>3</BottomRight>
+				<BottomLeft>3</BottomLeft>
+			</Radius>
+			<BackgroundColors>
+				<BackgroundColor>
+					<Offset>0</Offset>
+					<ColorStr>#FFA219B5</ColorStr>
+				</BackgroundColor>
+			</BackgroundColors>
+			<VerticalGradient>true</VerticalGradient>
+			<BackgroundImage>
+				<ImagePath />
+			</BackgroundImage>
+			<BackgroundRepeat>false</BackgroundRepeat>
+			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
+			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
+			<ShadowSetting>
+				<ShadowEnable>false</ShadowEnable>
+				<BlurRadius>0</BlurRadius>
+				<Direction>315</Direction>
+				<Opacity>1</Opacity>
+				<ShadowDepth>5</ShadowDepth>
+				<ColorStr>#FF000000</ColorStr>
+			</ShadowSetting>
+		</BoxDesign>
+		<FontDesign>
+			<ColorStr>#FFFFFFFF</ColorStr>
+			<WeightStr>SemiBold</WeightStr>
+			<Size>11</Size>
+			<FontFamilyStr>Koruri</FontFamilyStr>
+		</FontDesign>
+		<Text>DMウインドウを開く</Text>
+		<Width>NaN</Width>
+		<Height>NaN</Height>
+		<MinWidth>NaN</MinWidth>
+		<MinHeight>NaN</MinHeight>
+		<VerticalAlignment>Bottom</VerticalAlignment>
+		<HorizontalAlignment>Right</HorizontalAlignment>
+		<VerticalContentAlignment>Center</VerticalContentAlignment>
+		<HorizontalContentAlignment>Center</HorizontalContentAlignment>
+		<TextAlignment>Left</TextAlignment>
+	</DMOpenButtonSetting>
 	<AutoScrollEnableButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
