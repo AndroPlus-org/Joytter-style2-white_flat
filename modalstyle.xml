@@ -1089,10 +1089,10 @@
 	<CollectionColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -1116,25 +1116,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddcollection.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1148,12 +1134,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf0c6; コレクション</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -1245,10 +1231,10 @@
 	<StreamButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -1272,21 +1258,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FFA6A3A1</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF606060</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF3B3B3B</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\streamsearchbutton.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1300,12 +1276,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FF000000</ColorStr>
-			<WeightStr>Normal</WeightStr>
+			<ColorStr>#FF3F51B5</ColorStr>
+			<WeightStr>SemiBold</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf002;ストリーム</Text>
 		<Width>NaN</Width>
 		<Height>NaN</Height>
 		<MinWidth>70</MinWidth>
@@ -1319,10 +1295,10 @@
 	<RESTButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -1346,21 +1322,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FFA6A3A1</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF606060</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF3B3B3B</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\restsearchbutton.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1374,12 +1340,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FF000000</ColorStr>
-			<WeightStr>Normal</WeightStr>
+			<ColorStr>#FFFF9800</ColorStr>
+			<WeightStr>SemiBold</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf002; REST</Text>
 		<Width>NaN</Width>
 		<Height>NaN</Height>
 		<MinWidth>70</MinWidth>
@@ -1457,10 +1423,10 @@
 	<UserSearchButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -1484,21 +1450,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FFA6A3A1</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF606060</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF3B3B3B</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\usersearchbutton.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1512,12 +1468,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FF000000</ColorStr>
-			<WeightStr>Normal</WeightStr>
+			<ColorStr>#FF2196F3</ColorStr>
+			<WeightStr>SemiBold</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf007; 検索</Text>
 		<Width>NaN</Width>
 		<Height>NaN</Height>
 		<MinWidth>70</MinWidth>
