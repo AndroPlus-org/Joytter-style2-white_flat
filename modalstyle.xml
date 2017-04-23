@@ -2,10 +2,10 @@
 <ModalStyle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<ModalBoxSetting>
 		<BorderThickness>
-			<Left>1</Left>
-			<Top>1</Top>
-			<Right>1</Right>
-			<Bottom>1</Bottom>
+			<Left>0</Left>
+			<Top>0</Top>
+			<Right>0</Right>
+			<Bottom>0</Bottom>
 		</BorderThickness>
 		<BorderColorStr>#FF000000</BorderColorStr>
 		<Margin>
@@ -29,13 +29,11 @@
 		<BackgroundColors>
 			<BackgroundColor>
 				<Offset>0</Offset>
-				<ColorStr>#FF333333</ColorStr>
+				<ColorStr>#FF9E9E9E</ColorStr>
 			</BackgroundColor>
 		</BackgroundColors>
 		<VerticalGradient>true</VerticalGradient>
-		<BackgroundImage>
-			<ImagePath>modal\modalbg.png</ImagePath>
-		</BackgroundImage>
+		<BackgroundImage />
 		<BackgroundRepeat>true</BackgroundRepeat>
 		<BackgroundHorizontalAlignment>Stretch</BackgroundHorizontalAlignment>
 		<BackgroundVerticalAlignment>Stretch</BackgroundVerticalAlignment>
@@ -71,21 +69,13 @@
 		<Radius>
 			<TopLeft>3</TopLeft>
 			<TopRight>3</TopRight>
-			<BottomRight>3</BottomRight>
-			<BottomLeft>3</BottomLeft>
+			<BottomRight>0</BottomRight>
+			<BottomLeft>0</BottomLeft>
 		</Radius>
 		<BackgroundColors>
 			<BackgroundColor>
 				<Offset>0</Offset>
-				<ColorStr>#FF3C3C3C</ColorStr>
-			</BackgroundColor>
-			<BackgroundColor>
-				<Offset>0.1</Offset>
-				<ColorStr>#FF2C2C2C</ColorStr>
-			</BackgroundColor>
-			<BackgroundColor>
-				<Offset>1</Offset>
-				<ColorStr>#FF161616</ColorStr>
+				<ColorStr>#FF9E9E9E</ColorStr>
 			</BackgroundColor>
 		</BackgroundColors>
 		<VerticalGradient>true</VerticalGradient>
@@ -107,10 +97,10 @@
 	<BackButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -120,32 +110,20 @@
 				<Bottom>0</Bottom>
 			</Margin>
 			<Padding>
-				<Left>0</Left>
-				<Top>0</Top>
-				<Right>0</Right>
+				<Left>5</Left>
+				<Top>1</Top>
+				<Right>5</Right>
 				<Bottom>0</Bottom>
 			</Padding>
 			<Radius>
-				<TopLeft>10</TopLeft>
-				<TopRight>10</TopRight>
-				<BottomRight>10</BottomRight>
-				<BottomLeft>10</BottomLeft>
+				<TopLeft>8</TopLeft>
+				<TopRight>8</TopRight>
+				<BottomRight>8</BottomRight>
+				<BottomLeft>8</BottomLeft>
 			</Radius>
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF414141</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.15</Offset>
-					<ColorStr>#FF2B2B2B</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.85</Offset>
-					<ColorStr>#FF111111</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
 					<ColorStr>#FF414141</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
@@ -164,13 +142,13 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFA0A6A6</ColorStr>
+			<ColorStr>#FFF5F5F5</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>11</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text>Back</Text>
-		<Width>40</Width>
+		<Text>&#xf0d9; 戻る</Text>
+		<Width>NaN</Width>
 		<Height>20</Height>
 		<MinWidth>NaN</MinWidth>
 		<MinHeight>NaN</MinHeight>
@@ -279,10 +257,10 @@
 	<TimelineColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -306,25 +284,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddhome.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -338,12 +302,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf015; タイムライン</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -357,10 +321,10 @@
 	<TagMuteTimelineColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -384,25 +348,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddtagmute.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -416,12 +366,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf05e; タグミュートTL</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -435,10 +385,10 @@
 	<NotifyColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -462,25 +412,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddnotify.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -494,12 +430,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf0f3; 通知</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -513,10 +449,10 @@
 	<ReplyColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -540,25 +476,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddmention.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -572,12 +494,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf1fa; メンション</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -591,10 +513,10 @@
 	<SearchColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -618,25 +540,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddsearch.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -650,12 +558,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf002; 検索</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -669,10 +577,10 @@
 	<FilterColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -696,25 +604,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddfilter.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -728,12 +622,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf0b0; 単語抽出</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -747,10 +641,10 @@
 	<ListColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -774,25 +668,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddlist.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -806,12 +686,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf0c0; リスト</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -825,10 +705,10 @@
 	<FilterRuleColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -852,25 +732,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddrule.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -884,12 +750,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf0c3; 抽出ルール</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -903,10 +769,10 @@
 	<FavoriteColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -930,25 +796,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddfavorite.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -962,12 +814,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf005; いいね</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -981,10 +833,10 @@
 	<RetweetColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -1008,25 +860,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddretweet.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1040,12 +878,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf079; リツイート</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -1059,10 +897,10 @@
 	<DMColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -1086,25 +924,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnadddm.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1118,12 +942,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf0e0; メッセージ</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -1137,10 +961,10 @@
 	<UsersFavoriteColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -1164,25 +988,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\columnaddfollowersfav.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1196,12 +1006,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf006; いいねTL</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -1215,10 +1025,10 @@
 	<UserSearchColumnButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -1242,25 +1052,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FF444444</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF333333</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.9</Offset>
-					<ColorStr>#FF222222</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF404040</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\usersearch.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1274,12 +1070,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FFFFFFFF</ColorStr>
+			<ColorStr>#FF333333</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
-			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<Size>16</Size>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf007; ユーザー検索</Text>
 		<Width>170</Width>
 		<Height>40</Height>
 		<MinWidth>NaN</MinWidth>
@@ -1597,10 +1393,10 @@
 	<FilterButtonSetting>
 		<BoxDesign>
 			<BorderThickness>
-				<Left>1</Left>
-				<Top>1</Top>
-				<Right>1</Right>
-				<Bottom>1</Bottom>
+				<Left>0</Left>
+				<Top>0</Top>
+				<Right>0</Right>
+				<Bottom>0</Bottom>
 			</BorderThickness>
 			<BorderColorStr>#FF000000</BorderColorStr>
 			<Margin>
@@ -1624,21 +1420,11 @@
 			<BackgroundColors>
 				<BackgroundColor>
 					<Offset>0</Offset>
-					<ColorStr>#FFA6A3A1</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>0.1</Offset>
-					<ColorStr>#FF606060</ColorStr>
-				</BackgroundColor>
-				<BackgroundColor>
-					<Offset>1</Offset>
-					<ColorStr>#FF3B3B3B</ColorStr>
+					<ColorStr>#FFE0E0E0</ColorStr>
 				</BackgroundColor>
 			</BackgroundColors>
 			<VerticalGradient>true</VerticalGradient>
-			<BackgroundImage>
-				<ImagePath>modal\filterbutton.png</ImagePath>
-			</BackgroundImage>
+			<BackgroundImage />
 			<BackgroundRepeat>false</BackgroundRepeat>
 			<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 			<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1652,12 +1438,12 @@
 			</ShadowSetting>
 		</BoxDesign>
 		<FontDesign>
-			<ColorStr>#FF000000</ColorStr>
-			<WeightStr>Normal</WeightStr>
+			<ColorStr>#FF009688</ColorStr>
+			<WeightStr>SemiBold</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 		</FontDesign>
-		<Text />
+		<Text>&#xf0b0; フィルタ</Text>
 		<Width>NaN</Width>
 		<Height>NaN</Height>
 		<MinWidth>70</MinWidth>
