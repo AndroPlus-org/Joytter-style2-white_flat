@@ -1287,12 +1287,12 @@
 		<CheckedSetting>
 			<BoxDesign>
 				<BorderThickness>
-					<Left>0</Left>
-					<Top>0</Top>
-					<Right>0</Right>
-					<Bottom>0</Bottom>
+					<Left>1</Left>
+					<Top>1</Top>
+					<Right>1</Right>
+					<Bottom>1</Bottom>
 				</BorderThickness>
-				<BorderColorStr>#00FFFFFF</BorderColorStr>
+				<BorderColorStr>#FFD5D4D0</BorderColorStr>
 				<Margin>
 					<Left>0</Left>
 					<Top>0</Top>
@@ -1301,21 +1301,24 @@
 				</Margin>
 				<Padding>
 					<Left>0</Left>
-					<Top>0</Top>
+					<Top>1</Top>
 					<Right>0</Right>
 					<Bottom>0</Bottom>
 				</Padding>
 				<Radius>
-					<TopLeft>0</TopLeft>
-					<TopRight>0</TopRight>
-					<BottomRight>0</BottomRight>
-					<BottomLeft>0</BottomLeft>
+					<TopLeft>2</TopLeft>
+					<TopRight>2</TopRight>
+					<BottomRight>2</BottomRight>
+					<BottomLeft>2</BottomLeft>
 				</Radius>
-				<BackgroundColors />
+				<BackgroundColors>
+					<BackgroundColor>
+						<Offset>0</Offset>
+						<ColorStr>#FFF6F5F3</ColorStr>
+					</BackgroundColor>
+				</BackgroundColors>
 				<VerticalGradient>true</VerticalGradient>
-				<BackgroundImage>
-					<ImagePath>tagtoggleenable.png</ImagePath>
-				</BackgroundImage>
+				<BackgroundImage />
 				<BackgroundRepeat>false</BackgroundRepeat>
 				<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 				<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1330,11 +1333,11 @@
 			</BoxDesign>
 			<FontDesign>
 				<ColorStr>#FF000000</ColorStr>
-				<WeightStr>Normal</WeightStr>
+				<WeightStr>SemiBold</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 			</FontDesign>
-			<Text />
+			<Text>&#xf205; &#xf292;</Text>
 			<Width>40</Width>
 			<Height>18</Height>
 			<MinWidth>NaN</MinWidth>
@@ -1348,12 +1351,12 @@
 		<NonCheckSetting>
 			<BoxDesign>
 				<BorderThickness>
-					<Left>0</Left>
-					<Top>0</Top>
-					<Right>0</Right>
-					<Bottom>0</Bottom>
+					<Left>1</Left>
+					<Top>1</Top>
+					<Right>1</Right>
+					<Bottom>1</Bottom>
 				</BorderThickness>
-				<BorderColorStr>#00FFFFFF</BorderColorStr>
+				<BorderColorStr>#FFD5D4D0</BorderColorStr>
 				<Margin>
 					<Left>0</Left>
 					<Top>0</Top>
@@ -1362,21 +1365,24 @@
 				</Margin>
 				<Padding>
 					<Left>0</Left>
-					<Top>0</Top>
+					<Top>1</Top>
 					<Right>0</Right>
 					<Bottom>0</Bottom>
 				</Padding>
 				<Radius>
-					<TopLeft>0</TopLeft>
-					<TopRight>0</TopRight>
-					<BottomRight>0</BottomRight>
-					<BottomLeft>0</BottomLeft>
+					<TopLeft>2</TopLeft>
+					<TopRight>2</TopRight>
+					<BottomRight>2</BottomRight>
+					<BottomLeft>2</BottomLeft>
 				</Radius>
-				<BackgroundColors />
+				<BackgroundColors>
+					<BackgroundColor>
+						<Offset>0</Offset>
+						<ColorStr>#FFF6F5F3</ColorStr>
+					</BackgroundColor>
+				</BackgroundColors>
 				<VerticalGradient>true</VerticalGradient>
-				<BackgroundImage>
-					<ImagePath>tagtoggledisable.png</ImagePath>
-				</BackgroundImage>
+				<BackgroundImage />
 				<BackgroundRepeat>false</BackgroundRepeat>
 				<BackgroundHorizontalAlignment>Center</BackgroundHorizontalAlignment>
 				<BackgroundVerticalAlignment>Center</BackgroundVerticalAlignment>
@@ -1391,11 +1397,11 @@
 			</BoxDesign>
 			<FontDesign>
 				<ColorStr>#FF000000</ColorStr>
-				<WeightStr>Normal</WeightStr>
+				<WeightStr>SemiBold</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>FontAwesome,Koruri</FontFamilyStr>
 			</FontDesign>
-			<Text />
+			<Text>&#xf204; &#xf292;</Text>
 			<Width>40</Width>
 			<Height>18</Height>
 			<MinWidth>NaN</MinWidth>
