@@ -955,7 +955,7 @@
 			<ColorStr>#FF322E23</ColorStr>
 			<WeightStr>Bold</WeightStr>
 			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>0</Left>
@@ -975,7 +975,7 @@
 			<ColorStr>#FF7D7560</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>13</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>4</Left>
@@ -995,7 +995,7 @@
 			<ColorStr>#FF7D7560</ColorStr>
 			<WeightStr>Light</WeightStr>
 			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>4</Left>
@@ -1015,7 +1015,7 @@
 			<ColorStr>#FF7D7560</ColorStr>
 			<WeightStr>Light</WeightStr>
 			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>0</Left>
@@ -1035,7 +1035,7 @@
 			<ColorStr>#FF7D7560</ColorStr>
 			<WeightStr>Light</WeightStr>
 			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>0</Left>
@@ -1074,19 +1074,19 @@
 		<ColorStr>#FF1FA301</ColorStr>
 		<WeightStr>Normal</WeightStr>
 		<Size>14</Size>
-		<FontFamilyStr>Meiryo UI</FontFamilyStr>
+		<FontFamilyStr>Koruri</FontFamilyStr>
 	</HyperLinkFontSetting>
 	<MentionFontSetting>
 		<ColorStr>#FF1FA301</ColorStr>
 		<WeightStr>Normal</WeightStr>
 		<Size>14</Size>
-		<FontFamilyStr>Meiryo UI</FontFamilyStr>
+		<FontFamilyStr>Koruri</FontFamilyStr>
 	</MentionFontSetting>
 	<TagFontSetting>
 		<ColorStr>#FF1FA301</ColorStr>
 		<WeightStr>Normal</WeightStr>
 		<Size>14</Size>
-		<FontFamilyStr>Meiryo UI</FontFamilyStr>
+		<FontFamilyStr>Koruri</FontFamilyStr>
 	</TagFontSetting>
 	<ThumbnailImageBorderColorStr>#FF2E81C3</ThumbnailImageBorderColorStr>
 	<ColumnMenuComboBoxSetting>
@@ -1142,7 +1142,7 @@
 			<ColorStr>#FF5E5641</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>13</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>NaN</Width>
@@ -1466,7 +1466,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>13</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>NaN</Width>
@@ -1532,7 +1532,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>30</Width>
@@ -1598,7 +1598,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>30</Width>
@@ -1664,7 +1664,7 @@
 			<ColorStr>#FF7B6F5F</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>11</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>NaN</Width>
@@ -1730,7 +1730,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>25</Width>
@@ -1796,7 +1796,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>25</Width>
@@ -1862,7 +1862,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>25</Width>
@@ -2450,7 +2450,7 @@
 			<ColorStr>#FFA0A6A6</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>11</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>20</Width>
@@ -2517,7 +2517,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>20</Width>
@@ -2583,7 +2583,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>20</Width>
@@ -2650,7 +2650,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>NaN</Width>
@@ -2714,7 +2714,7 @@
 			<ColorStr>#FF666666</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>11</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>NaN</Width>
@@ -2775,7 +2775,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>NaN</Width>
@@ -2841,7 +2841,7 @@
 			<ColorStr>#FFFFFFFF</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>22</Width>
@@ -2907,7 +2907,7 @@
 			<ColorStr>#FFFFFFFF</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>22</Width>
@@ -2973,7 +2973,7 @@
 			<ColorStr>#FFFFFFFF</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>22</Width>
@@ -3039,7 +3039,7 @@
 			<ColorStr>#FFFFFFFF</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>22</Width>
@@ -3100,7 +3100,7 @@
 			<ColorStr>#FF777777</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text>設定</Text>
 		<Width>NaN</Width>
@@ -3161,7 +3161,7 @@
 			<ColorStr>#FF777777</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text>スリム化</Text>
 		<Width>NaN</Width>
@@ -3222,7 +3222,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text>設定</Text>
 		<Width>NaN</Width>
@@ -3283,7 +3283,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text>表示</Text>
 		<Width>NaN</Width>
@@ -3301,7 +3301,7 @@
 			<ColorStr>#FF5E5641</ColorStr>
 			<WeightStr>Bold</WeightStr>
 			<Size>13</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>3</Left>
@@ -3321,7 +3321,7 @@
 			<ColorStr>#FF5E5641</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>10</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>3</Left>
@@ -3390,7 +3390,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -3456,7 +3456,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -3519,7 +3519,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -3580,7 +3580,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -3648,7 +3648,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -3714,7 +3714,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -3777,7 +3777,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -3838,7 +3838,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -3906,7 +3906,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -3972,7 +3972,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4035,7 +4035,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4096,7 +4096,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4164,7 +4164,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4230,7 +4230,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4293,7 +4293,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4354,7 +4354,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4422,7 +4422,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4488,7 +4488,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4551,7 +4551,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4612,7 +4612,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4680,7 +4680,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4746,7 +4746,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4809,7 +4809,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4870,7 +4870,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -4938,7 +4938,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5004,7 +5004,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5067,7 +5067,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5128,7 +5128,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5196,7 +5196,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5262,7 +5262,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5325,7 +5325,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5386,7 +5386,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5454,7 +5454,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5520,7 +5520,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5583,7 +5583,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5644,7 +5644,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5712,7 +5712,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5778,7 +5778,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5841,7 +5841,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5902,7 +5902,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -5970,7 +5970,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6036,7 +6036,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6099,7 +6099,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6160,7 +6160,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6228,7 +6228,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6294,7 +6294,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6357,7 +6357,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6418,7 +6418,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6486,7 +6486,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6552,7 +6552,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6615,7 +6615,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6676,7 +6676,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6744,7 +6744,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6810,7 +6810,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6873,7 +6873,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -6934,7 +6934,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -7002,7 +7002,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -7068,7 +7068,7 @@
 				<ColorStr>#FF5E5641</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -7131,7 +7131,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -7192,7 +7192,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>NaN</Width>
@@ -7391,7 +7391,7 @@
 			<ColorStr>#FF666666</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>13</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>NaN</Width>
@@ -7457,7 +7457,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>40</Width>
@@ -7523,7 +7523,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>40</Width>
@@ -7685,7 +7685,7 @@
 			<ColorStr>#FF5E5641</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>13</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<TextAlignment>Left</TextAlignment>
 	</TweetTextBoxSetting>
@@ -7693,7 +7693,7 @@
 		<ColorStr>#46000000</ColorStr>
 		<WeightStr>SemiBold</WeightStr>
 		<Size>13</Size>
-		<FontFamilyStr>Meiryo UI</FontFamilyStr>
+		<FontFamilyStr>Koruri</FontFamilyStr>
 	</RemainingCountFontSetting>
 	<ActionBarBoxSetting>
 		<BorderThickness>
@@ -7791,7 +7791,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>25</Width>
@@ -7852,7 +7852,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>25</Width>
@@ -7913,7 +7913,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>25</Width>
@@ -7974,7 +7974,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>25</Width>
@@ -8035,7 +8035,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>25</Width>
@@ -8096,7 +8096,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>25</Width>
@@ -8157,7 +8157,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>25</Width>
@@ -8218,7 +8218,7 @@
 			<ColorStr>#FFA0A6A6</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>25</Width>
@@ -8591,7 +8591,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>20</Width>
@@ -8657,7 +8657,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>20</Width>
@@ -8723,7 +8723,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>20</Width>
@@ -8789,7 +8789,7 @@
 			<ColorStr>#FFA0A6A6</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>20</Width>
@@ -8902,14 +8902,14 @@
 		<ColorStr>#FFA0A0A0</ColorStr>
 		<WeightStr>Normal</WeightStr>
 		<Size>11</Size>
-		<FontFamilyStr>Meiryo UI</FontFamilyStr>
+		<FontFamilyStr>Koruri</FontFamilyStr>
 	</NotifyPopupHeaderFontSetting>
 	<NotifyPopupTitleTextSetting>
 		<FontStyle>
 			<ColorStr>#FF323232</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>5</Left>
@@ -8929,7 +8929,7 @@
 			<ColorStr>#FF323232</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>5</Left>
@@ -8949,7 +8949,7 @@
 			<ColorStr>#FF8C8C8C</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>11</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>0</Left>
@@ -9161,7 +9161,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<TextAlignment>Left</TextAlignment>
 	</SelectableWindowSetting>
@@ -9259,7 +9259,7 @@
 			<ColorStr>#FF433A31</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>13</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<HoverBoxDesign>
 			<BorderThickness>
@@ -9311,7 +9311,7 @@
 			<ColorStr>#FFFFFFFF</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>13</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</HoverFontDesign>
 		<DisableBoxDesign>
 			<BorderThickness>
@@ -9358,7 +9358,7 @@
 			<ColorStr>#FF988E8B</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>13</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</DisableFontDesign>
 		<Width>NaN</Width>
 		<MaxWidth>200</MaxWidth>

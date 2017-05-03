@@ -239,7 +239,7 @@
 			<ColorStr>#FFF0F0F0</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>0</Left>
@@ -1215,7 +1215,7 @@
 			<ColorStr>#FFDCDDDD</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>13</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>NaN</Width>
@@ -1633,7 +1633,7 @@
 			<ColorStr>#FF666666</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>15</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>0</Left>
@@ -1710,7 +1710,7 @@
 				<ColorStr>#FFFFFFFF</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text>REST検索</Text>
 			<Width>100</Width>
@@ -1776,7 +1776,7 @@
 				<ColorStr>#FF777777</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text>REST検索</Text>
 			<Width>100</Width>
@@ -1852,7 +1852,7 @@
 				<ColorStr>#FFFFFFFF</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text>Stream検索</Text>
 			<Width>100</Width>
@@ -1918,7 +1918,7 @@
 				<ColorStr>#FF777777</ColorStr>
 				<WeightStr>SemiBold</WeightStr>
 				<Size>12</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text>Stream検索</Text>
 			<Width>100</Width>
@@ -2173,7 +2173,7 @@
 				<ColorStr>#FF888888</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>11</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text>検索オプション▲</Text>
 			<Width>NaN</Width>
@@ -2234,7 +2234,7 @@
 				<ColorStr>#FF888888</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>11</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text>検索オプション▼</Text>
 			<Width>NaN</Width>
@@ -2252,7 +2252,7 @@
 		<ColorStr>#FF555555</ColorStr>
 		<WeightStr>Semi Bold</WeightStr>
 		<Size>12</Size>
-		<FontFamilyStr>Meiryo UI</FontFamilyStr>
+		<FontFamilyStr>Koruri</FontFamilyStr>
 	</RESTOptionTextFontSetting>
 	<RESTOptionToggleButtonSetting>
 		<CheckedSetting>
@@ -2303,7 +2303,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>40</Width>
@@ -2364,7 +2364,7 @@
 				<ColorStr>#FF000000</ColorStr>
 				<WeightStr>Normal</WeightStr>
 				<Size>14</Size>
-				<FontFamilyStr>Meiryo UI</FontFamilyStr>
+				<FontFamilyStr>Koruri</FontFamilyStr>
 			</FontDesign>
 			<Text />
 			<Width>40</Width>
@@ -2439,7 +2439,7 @@
 			<ColorStr>#FF999999</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>11</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>NaN</Width>
@@ -2553,7 +2553,7 @@
 			<ColorStr>#FFF0F0F0</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>0</Left>
@@ -2573,7 +2573,7 @@
 			<ColorStr>#FFBBBBBB</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>12</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontStyle>
 		<Margin>
 			<Left>0</Left>
@@ -2671,7 +2671,7 @@
 			<ColorStr>#FF000000</ColorStr>
 			<WeightStr>Normal</WeightStr>
 			<Size>14</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text />
 		<Width>18</Width>
@@ -2747,7 +2747,7 @@
 			<ColorStr>#FFA0A6A6</ColorStr>
 			<WeightStr>SemiBold</WeightStr>
 			<Size>11</Size>
-			<FontFamilyStr>Meiryo UI</FontFamilyStr>
+			<FontFamilyStr>Koruri</FontFamilyStr>
 		</FontDesign>
 		<Text>コレクション作成</Text>
 		<Width>NaN</Width>
